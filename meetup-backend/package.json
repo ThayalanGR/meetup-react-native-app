@@ -1,0 +1,30 @@
+{
+  "name": "meetup-app",
+  "version": "1.0.0",
+  "description": "meetupapp with node backend and reactnative frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThayalanGR/meetup-react-native-app.git"
+  },
+  "author": "ThayalanGR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThayalanGR/meetup-react-native-app/issues"
+  },
+  "homepage": "https://github.com/ThayalanGR/meetup-react-native-app#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.14",
+    "morgan": "^1.9.1"
+  },
+  "dependencies": {}
+}
